@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tajný život</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Síto</text>
+      </navLabel>
+      <content src="Text/tajny_zivot_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1 SMÍCH V DEŠTI</text>
+      </navLabel>
+      <content src="Text/tajny_zivot_006.xhtml#_idParaDest-2"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Bude mi třiatřicet</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>U ohně</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_008.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Procitnutí</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_009.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Slavnost</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_010.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Atom</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_011.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Káně</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_012.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Nora</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_013.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Televizní hvězda</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_014.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Zašlý lesk alpaky a stříbra</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_015.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Válečný stav</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_016.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Vzpomínka na kolej</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_017.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>1985</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_018.xhtml#_idParaDest-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>2 VÝPUSŤ A JÍCEN</text>
+      </navLabel>
+      <content src="Text/tajny_zivot_019.xhtml#_idParaDest-15"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Krahujec</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_020.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Jsem</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_021.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Halleyova kometa</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_022.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Představ si…</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_023.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Mít IslandIvě</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_024.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Co říct o světě,</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_025.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Příběh</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_026.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Slova mají smysl</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_027.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Schránky měkkýšů</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_028.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Do tmy</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_029.xhtml#_idParaDest-25"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>3 KOŘENY A STÉBLA</text>
+      </navLabel>
+      <content src="Text/tajny_zivot_030.xhtml#_idParaDest-26"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Zůstáváš, a vše plyne…</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_031.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Jaro</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_032.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Lesní párty</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_033.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Říznutí</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_034.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Vrtoch</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_035.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Šperkovnice</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_036.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Spořádané bytí</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_037.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Listopad</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_038.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Pálení větví</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_039.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Skládanka</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_040.xhtml#_idParaDest-36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>4 ŠEPOT V OPEŘE</text>
+      </navLabel>
+      <content src="Text/tajny_zivot_041.xhtml#_idParaDest-37"/>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Lovec</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_042.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Rajčata</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Doplněk</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Stane se, že než se propadneš ještě hlouběji…</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Uprostřed suti</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_047.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Tajný život</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Věci</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Gravitace</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_050.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Milenci</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_051.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Když je dlouho šero,</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_052.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Tuaregové</text>
+        </navLabel>
+        <content src="Text/tajny_zivot_053.xhtml#_idParaDest-48"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
