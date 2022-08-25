@@ -1,11 +1,11 @@
 ---
 title: Spořádané bytí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Bez povšimnutí v lese hnije strom.  
+Bez povšimnutí v lese hnije strom.  
 Lišejníkem obroubená kůra. Halasný smrad.  
 Do země propadá se pohmožděná armatura.  
 Po cestě kráčí žena mužské postavy a vzlyká.  
@@ -15,6 +15,6 @@ jak by neměl být už živ.
 Moc nad slovy je moc nad věcmi.  
 My spíme a máme vše — známosti,  
 oblíbenou restauraci, dům štěstí.  
-Něco tu však nedomyká. Nejen slova._
+Něco tu však nedomyká. Nejen slova.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Gravitace
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pořádají piknik, ale vypadá to,  
+Pořádají piknik, ale vypadá to,  
 jako by v nouzi vyndávali nářadí z auta,  
 anebo vyndávají z auta nářadí,  
 ale vypadá to, jako by si vyrazili na piknik.  
@@ -18,6 +18,6 @@ to myš se katapultuje proti dravci.
 U druhého břehu řeku pod sebou valí prám.  
 My se neblížíme svému konci,  
 to z nejzazší prázdnoty  
-se konec řítí proti nám._
+se konec řítí proti nám.
 
 </section>

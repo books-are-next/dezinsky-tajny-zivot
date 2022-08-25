@@ -1,11 +1,11 @@
 ---
 title: Listopad
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Takový obraz skomírání  
+Takový obraz skomírání  
 vyžaduje aktivní zapojení.  
 Chryzantémy rozkvetlé do sněhu  
 jak barva poraněné zvěře.  
@@ -22,6 +22,6 @@ pijeme horký čaj, oslavu jistoty,
 Kdo by nemiloval šedé nedělní odpoledne;  
 jsme už tak daleko od té scény s liškou,  
 co kolem dálnice vlekla svou poraněnou páteř  
-jako uloupenou kořist._
+jako uloupenou kořist.
 
 </section>

@@ -1,24 +1,24 @@
 ---
 title: Příběh
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Všechno zhrubne a tělo pod prostěradlem  
+Všechno zhrubne a tělo pod prostěradlem  
 se setrvačně chvěje. To je příběh,  
-proměněný v kulaťoučký celek._
+proměněný v kulaťoučký celek.
 
 </section>
 
 <section>
 
-_Byl by._
+Byl by.
 
 </section>
 
 <section>
 
-_Kdyby z něj tak studeně netrčelo koleno._
+Kdyby z něj tak studeně netrčelo koleno.
 
 </section>

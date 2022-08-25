@@ -1,11 +1,11 @@
 ---
 title: Halleyova kometa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Neprobíhá žádná revoluce,  
+Neprobíhá žádná revoluce,  
 jen se odněkud hrabe  
 naše záhadná budoucnost.  
 Vynoří se z archeologie stínů  
@@ -23,6 +23,6 @@ Vydere se z půdy,
 změní se v listí,  
 bude poletovat zlatý pyl,  
 bude natahovat větve,  
-aby ji uviděla._
+aby ji uviděla.
 
 </section>

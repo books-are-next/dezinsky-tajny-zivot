@@ -1,11 +1,11 @@
 ---
 title: Tajný život
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Myšlenka, že nějaký tajný život opravdu existuje,  
+Myšlenka, že nějaký tajný život opravdu existuje,  
 je děsivá. Stíny by se oblékly na noc  
 a vyrazily do deště. Zatímco spáči zažívají sen,  
 vykradou se k lampám pod kabáty úplně nahé.  
@@ -21,6 +21,6 @@ Zapomenutá nebo vyměněná věc. Hodinky lednici mezi vejci.
 Anebo —  
 tajný život je ta viditelná část — majetkové záležitosti,  
 vstávání do práce, rodičovské úsilí, nutnost podělit se,  
-vysilující víkendová zábava._
+vysilující víkendová zábava.
 
 </section>

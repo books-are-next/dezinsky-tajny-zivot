@@ -1,11 +1,11 @@
 ---
 title: Procitnutí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vím jen, že toto je procitnutí.  
+Vím jen, že toto je procitnutí.  
 Oblažován stružkou vody v kanále,  
 opřen o blánu tepající cévy. Černá moc  
 se nadlehčuje. Hledám ještě napůl slepý  
@@ -18,6 +18,6 @@ Jsem s to vnímat jen melodii myšlenky.
 Teď už se ale rozhlížím kolem sebe.  
 Vidím konečně můj dobrotivý pokoj,  
 cítím vlhkou postel  
-a obludnou všednost._
+a obludnou všednost.
 
 </section>

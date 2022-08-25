@@ -1,11 +1,11 @@
 ---
 title: "U\_ohně"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nejdřív zmizí pes  
+Nejdřív zmizí pes  
 a jen vteřinu za sebou nechá plamen oháňky.  
 Pak chlapec ve svítilně odnese poslední světlo  
 a ztratí se v Oortově oblaku.  
@@ -15,6 +15,6 @@ do níž jsem se propadl, abych se vynořil tam,
 kde jsem se opustil.  
 Popel ztemní.  
 Živé věci zmrznou  
-a ty věčně nehybné se vlídně pohnou._
+a ty věčně nehybné se vlídně pohnou.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Rajčata
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Žlutá a rezavá vrstva listí  
+Žlutá a rezavá vrstva listí  
 se loupe jak stará kůže,  
 světlo stříká po domech, vozech, plotech  
 a zalévá našedlou tvář v okně — to jsem já,  
@@ -17,6 +17,6 @@ rajčata,
 jenjen vybuchnout a kysele spálit  
 dojem rána, sežehnout světlo,  
 spálit tu tvář.  
-Vítězná rajčata._
+Vítězná rajčata.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Milenci
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jako by se snažili stáhnout jeden druhého  
+Jako by se snažili stáhnout jeden druhého  
 pod ostrou hranu ponoru, kde své ruce  
 natahují z podvodní říše dychtivé běsy.  
 A mít navrch. Stlačit jej pod sebe:  
@@ -15,6 +15,6 @@ páčí kolenem. Hýždě tlučou srdcem koně.
 Tak jak v dávných dobách, i dnes  
 vášniví, smrtelní rváči. A když je po všem,  
 pozvolna utichá třes v hrudním pletenci.  
-Srdce je tiché. Jsou každý sám._
+Srdce je tiché. Jsou každý sám.
 
 </section>

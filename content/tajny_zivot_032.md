@@ -1,11 +1,11 @@
 ---
 title: Jaro
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zkřehlé včely na květech,  
+Zkřehlé včely na květech,  
 pootevřených jak odchlípnuté nehty.  
 Choroš práší jarním vlhkem  
 jak zapařená mouka.  
@@ -17,6 +17,6 @@ hloubí černou díru v paralelním vesmíru.
 Třese průsvitným vnitřkem.  
 Minulost našla průrvu, svět jásá.  
 Těsně před polednem  
-radlice vykloubí z hlíny krysí lebku._
+radlice vykloubí z hlíny krysí lebku.
 
 </section>

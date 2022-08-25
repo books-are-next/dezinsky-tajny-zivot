@@ -1,11 +1,11 @@
 ---
 title: Televizní hvězda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Hladké podpaží televizní hvězdy  
+Hladké podpaží televizní hvězdy  
 modře vybuchuje v samotě tmy  
 a ty zaseknut, pozřen  
 jako bota mezi dvěma  
@@ -19,6 +19,6 @@ dostředivé vesmíry,
 zakřivené  
 pro dobré chvíle  
 a neopakovatelnou  
-omšelost dne._
+omšelost dne.
 
 </section>

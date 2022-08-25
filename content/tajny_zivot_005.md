@@ -1,6 +1,6 @@
 ---
 title: Síto
-contentType: prose
+contentType: poetry
 ---
 
 <section>

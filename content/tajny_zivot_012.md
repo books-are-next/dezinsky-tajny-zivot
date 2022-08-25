@@ -1,11 +1,11 @@
 ---
 title: Káně
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Odvezl jsem ho k jeho matce  
+Odvezl jsem ho k jeho matce  
 a vracel se po D8.  
 V odstavném pruhu několik aut a za nimi  
 rozházené papíry jak hlemýždí stopa.  
@@ -17,13 +17,13 @@ tkáň ke tkáni, radostné zřetězení buněk.
 Prázdná dálnice jak rukávem setřený stůl  
 signalizovala, že hojivý čas  
 zapíše drobnou, narůžovělou jizvu  
-do kalendáře paměti._
+do kalendáře paměti.
 
 </section>
 
 <section>
 
-_A pak — zahlédl jsem ji jen koutkem oka,  
+A pak — zahlédl jsem ji jen koutkem oka,  
 jako když někdo naznačí úder  
 a stín nebezpečně přeběhne  
 jak vyplašená srnka —  
@@ -42,6 +42,6 @@ načechrával vánek…
 Dívám se za sebe, jak se její ptačí tělo  
 chvějivě uklidňuje, vítr ji zas čechrá,  
 jak se pomalu rozpouští  
-jak spánek._
+jak spánek.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Pálení větví
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Po zimě pálí mí blízcí větve.  
+Po zimě pálí mí blízcí větve.  
 Děti netečně cucají hluchavkové květy.  
 Ta sladkost prosycuje květnový den.  
 Hoří rákosí. Kosí ptáče s křikem  
@@ -17,6 +17,6 @@ jak smeták.
 Ježek utíká, na hřbetě spečený strup  
 bodlin. Díváme se do ohně,  
 jakoby znovu přítomni  
-stvoření světa._
+stvoření světa.
 
 </section>
