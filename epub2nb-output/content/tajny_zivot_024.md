@@ -1,11 +1,11 @@
 ---
 title: Mít IslandIvě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Být tak nálet, naplavenina,  
+Být tak nálet, naplavenina,  
 mít svůj vlastní Island.  
 Neobdělané lány vřesu,  
 od západu k severu.  
@@ -29,6 +29,6 @@ Mít tak vlastní budoucnost
 a šaty stržené z věšáku;  
 být naplavenina a nálet,  
 mít vlastní ostrov,  
-mít svůj vlastní Island._
+mít svůj vlastní Island.
 
 </section>

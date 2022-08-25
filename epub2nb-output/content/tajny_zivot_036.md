@@ -1,14 +1,14 @@
 ---
 title: Šperkovnice
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Země prokvétá mrazem, podsněžník žil  
+Země prokvétá mrazem, podsněžník žil  
 proniká hlouběji, proměňuje vodu, posiluje křemen.  
 Ponrava se změní v drahokam a pukne.  
 V noci mráz zaútočí silou  
-a v podzemí vybuchují diamantoví červi._
+a v podzemí vybuchují diamantoví červi.
 
 </section>

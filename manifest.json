@@ -1,0 +1,1096 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Tajný život",
+  "author": "Milan Děžinský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dezinsky-tajny-zivot-de1bdf7",
+  "revision": "de1bdf7",
+  "readingOrder": [
+    "promo.html",
+    "tajny_zivot_005.html",
+    "tajny_zivot_006.html",
+    "tajny_zivot_007.html",
+    "tajny_zivot_008.html",
+    "tajny_zivot_009.html",
+    "tajny_zivot_010.html",
+    "tajny_zivot_011.html",
+    "tajny_zivot_012.html",
+    "tajny_zivot_013.html",
+    "tajny_zivot_014.html",
+    "tajny_zivot_015.html",
+    "tajny_zivot_016.html",
+    "tajny_zivot_017.html",
+    "tajny_zivot_018.html",
+    "tajny_zivot_019.html",
+    "tajny_zivot_020.html",
+    "tajny_zivot_021.html",
+    "tajny_zivot_022.html",
+    "tajny_zivot_023.html",
+    "tajny_zivot_024.html",
+    "tajny_zivot_025.html",
+    "tajny_zivot_026.html",
+    "tajny_zivot_027.html",
+    "tajny_zivot_028.html",
+    "tajny_zivot_029.html",
+    "tajny_zivot_030.html",
+    "tajny_zivot_031.html",
+    "tajny_zivot_032.html",
+    "tajny_zivot_033.html",
+    "tajny_zivot_034.html",
+    "tajny_zivot_035.html",
+    "tajny_zivot_036.html",
+    "tajny_zivot_037.html",
+    "tajny_zivot_038.html",
+    "tajny_zivot_039.html",
+    "tajny_zivot_040.html",
+    "tajny_zivot_041.html",
+    "tajny_zivot_042.html",
+    "tajny_zivot_043.html",
+    "tajny_zivot_044.html",
+    "tajny_zivot_045.html",
+    "tajny_zivot_046.html",
+    "tajny_zivot_047.html",
+    "tajny_zivot_048.html",
+    "tajny_zivot_049.html",
+    "tajny_zivot_050.html",
+    "tajny_zivot_051.html",
+    "tajny_zivot_052.html",
+    "tajny_zivot_053.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Aug 25 2022 12:20:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661430020416
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "tajny_zivot_005.html",
+      "toc": []
+    },
+    {
+      "title": "Síto",
+      "file": "tajny_zivot_005.html",
+      "words": 40,
+      "chars": 224,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "tajny_zivot_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Síto",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 SMÍCH V DEŠTI",
+      "file": "tajny_zivot_006.html",
+      "words": 4,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "tajny_zivot_005.html",
+      "next": "tajny_zivot_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1 SMÍCH V DEŠTI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bude mi třiatřicet",
+      "file": "tajny_zivot_007.html",
+      "words": 109,
+      "chars": 607,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 3,
+      "prev": "tajny_zivot_006.html",
+      "next": "tajny_zivot_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bude mi třiatřicet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U ohně",
+      "file": "tajny_zivot_008.html",
+      "words": 66,
+      "chars": 379,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "tajny_zivot_007.html",
+      "next": "tajny_zivot_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U ohně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Procitnutí",
+      "file": "tajny_zivot_009.html",
+      "words": 78,
+      "chars": 454,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "tajny_zivot_008.html",
+      "next": "tajny_zivot_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Procitnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavnost",
+      "file": "tajny_zivot_010.html",
+      "words": 91,
+      "chars": 581,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "tajny_zivot_009.html",
+      "next": "tajny_zivot_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Atom",
+      "file": "tajny_zivot_011.html",
+      "words": 68,
+      "chars": 389,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "tajny_zivot_010.html",
+      "next": "tajny_zivot_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Atom",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Káně",
+      "file": "tajny_zivot_012.html",
+      "words": 175,
+      "chars": 1007,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "tajny_zivot_011.html",
+      "next": "tajny_zivot_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Káně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nora",
+      "file": "tajny_zivot_013.html",
+      "words": 57,
+      "chars": 287,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 9,
+      "prev": "tajny_zivot_012.html",
+      "next": "tajny_zivot_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Televizní hvězda",
+      "file": "tajny_zivot_014.html",
+      "words": 52,
+      "chars": 324,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 10,
+      "prev": "tajny_zivot_013.html",
+      "next": "tajny_zivot_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Televizní hvězda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zašlý lesk alpaky a stříbra",
+      "file": "tajny_zivot_015.html",
+      "words": 79,
+      "chars": 447,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 11,
+      "prev": "tajny_zivot_014.html",
+      "next": "tajny_zivot_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zašlý lesk alpaky a stříbra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Válečný stav",
+      "file": "tajny_zivot_016.html",
+      "words": 71,
+      "chars": 421,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "tajny_zivot_015.html",
+      "next": "tajny_zivot_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Válečný stav",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka na kolej",
+      "file": "tajny_zivot_017.html",
+      "words": 62,
+      "chars": 357,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "tajny_zivot_016.html",
+      "next": "tajny_zivot_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka na kolej",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1985",
+      "file": "tajny_zivot_018.html",
+      "words": 53,
+      "chars": 277,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 14,
+      "prev": "tajny_zivot_017.html",
+      "next": "tajny_zivot_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1985",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 VÝPUSŤ A JÍCEN",
+      "file": "tajny_zivot_019.html",
+      "words": 4,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "tajny_zivot_018.html",
+      "next": "tajny_zivot_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2 VÝPUSŤ A JÍCEN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krahujec",
+      "file": "tajny_zivot_020.html",
+      "words": 63,
+      "chars": 341,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "tajny_zivot_019.html",
+      "next": "tajny_zivot_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krahujec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsem",
+      "file": "tajny_zivot_021.html",
+      "words": 103,
+      "chars": 568,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 17,
+      "prev": "tajny_zivot_020.html",
+      "next": "tajny_zivot_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Halleyova kometa",
+      "file": "tajny_zivot_022.html",
+      "words": 75,
+      "chars": 417,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 18,
+      "prev": "tajny_zivot_021.html",
+      "next": "tajny_zivot_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Halleyova kometa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Představ si…",
+      "file": "tajny_zivot_023.html",
+      "words": 75,
+      "chars": 454,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "tajny_zivot_022.html",
+      "next": "tajny_zivot_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Představ si…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mít IslandIvě",
+      "file": "tajny_zivot_024.html",
+      "words": 121,
+      "chars": 684,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 20,
+      "prev": "tajny_zivot_023.html",
+      "next": "tajny_zivot_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mít IslandIvě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co říct o světě,",
+      "file": "tajny_zivot_025.html",
+      "words": 80,
+      "chars": 450,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 21,
+      "prev": "tajny_zivot_024.html",
+      "next": "tajny_zivot_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co říct o světě,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběh",
+      "file": "tajny_zivot_026.html",
+      "words": 26,
+      "chars": 155,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 22,
+      "prev": "tajny_zivot_025.html",
+      "next": "tajny_zivot_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příběh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slova mají smysl",
+      "file": "tajny_zivot_027.html",
+      "words": 126,
+      "chars": 666,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 23,
+      "prev": "tajny_zivot_026.html",
+      "next": "tajny_zivot_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slova mají smysl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Schránky měkkýšů",
+      "file": "tajny_zivot_028.html",
+      "words": 96,
+      "chars": 530,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 24,
+      "prev": "tajny_zivot_027.html",
+      "next": "tajny_zivot_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Schránky měkkýšů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Do tmy",
+      "file": "tajny_zivot_029.html",
+      "words": 85,
+      "chars": 414,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 25,
+      "prev": "tajny_zivot_028.html",
+      "next": "tajny_zivot_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Do tmy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 KOŘENY A STÉBLA",
+      "file": "tajny_zivot_030.html",
+      "words": 4,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 26,
+      "prev": "tajny_zivot_029.html",
+      "next": "tajny_zivot_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3 KOŘENY A STÉBLA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "tajny_zivot_031.html",
+      "words": 39,
+      "chars": 206,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "tajny_zivot_030.html",
+      "next": "tajny_zivot_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaro",
+      "file": "tajny_zivot_032.html",
+      "words": 54,
+      "chars": 359,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 28,
+      "prev": "tajny_zivot_031.html",
+      "next": "tajny_zivot_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní párty",
+      "file": "tajny_zivot_033.html",
+      "words": 76,
+      "chars": 456,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 29,
+      "prev": "tajny_zivot_032.html",
+      "next": "tajny_zivot_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní párty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Říznutí",
+      "file": "tajny_zivot_034.html",
+      "words": 67,
+      "chars": 426,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 30,
+      "prev": "tajny_zivot_033.html",
+      "next": "tajny_zivot_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říznutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vrtoch",
+      "file": "tajny_zivot_035.html",
+      "words": 56,
+      "chars": 336,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 31,
+      "prev": "tajny_zivot_034.html",
+      "next": "tajny_zivot_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vrtoch",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šperkovnice",
+      "file": "tajny_zivot_036.html",
+      "words": 30,
+      "chars": 197,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 32,
+      "prev": "tajny_zivot_035.html",
+      "next": "tajny_zivot_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šperkovnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spořádané bytí",
+      "file": "tajny_zivot_037.html",
+      "words": 69,
+      "chars": 393,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 33,
+      "prev": "tajny_zivot_036.html",
+      "next": "tajny_zivot_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spořádané bytí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopad",
+      "file": "tajny_zivot_038.html",
+      "words": 77,
+      "chars": 522,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 34,
+      "prev": "tajny_zivot_037.html",
+      "next": "tajny_zivot_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pálení větví",
+      "file": "tajny_zivot_039.html",
+      "words": 60,
+      "chars": 358,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 35,
+      "prev": "tajny_zivot_038.html",
+      "next": "tajny_zivot_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pálení větví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skládanka",
+      "file": "tajny_zivot_040.html",
+      "words": 64,
+      "chars": 362,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 36,
+      "prev": "tajny_zivot_039.html",
+      "next": "tajny_zivot_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skládanka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 ŠEPOT V OPEŘE",
+      "file": "tajny_zivot_041.html",
+      "words": 4,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 37,
+      "prev": "tajny_zivot_040.html",
+      "next": "tajny_zivot_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4 ŠEPOT V OPEŘE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lovec",
+      "file": "tajny_zivot_042.html",
+      "words": 53,
+      "chars": 285,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 38,
+      "prev": "tajny_zivot_041.html",
+      "next": "tajny_zivot_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lovec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tajný život",
+      "file": "tajny_zivot_043.html",
+      "words": 46,
+      "chars": 245,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 39,
+      "prev": "tajny_zivot_042.html",
+      "next": "tajny_zivot_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rajčata",
+      "file": "tajny_zivot_044.html",
+      "words": 63,
+      "chars": 359,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 40,
+      "prev": "tajny_zivot_043.html",
+      "next": "tajny_zivot_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rajčata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doplněk",
+      "file": "tajny_zivot_045.html",
+      "words": 69,
+      "chars": 376,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 41,
+      "prev": "tajny_zivot_044.html",
+      "next": "tajny_zivot_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doplněk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *Na motivy básní J. Donna a A. Ginsberga",
+      "file": "tajny_zivot_046.html",
+      "words": 59,
+      "chars": 366,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "tajny_zivot_045.html",
+      "next": "tajny_zivot_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *Na motivy básní J. Donna a A. Ginsberga",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uprostřed suti",
+      "file": "tajny_zivot_047.html",
+      "words": 61,
+      "chars": 367,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "tajny_zivot_046.html",
+      "next": "tajny_zivot_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uprostřed suti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tajný život",
+      "file": "tajny_zivot_048.html",
+      "words": 119,
+      "chars": 760,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 44,
+      "prev": "tajny_zivot_047.html",
+      "next": "tajny_zivot_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tajný život",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věci",
+      "file": "tajny_zivot_049.html",
+      "words": 84,
+      "chars": 479,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 45,
+      "prev": "tajny_zivot_048.html",
+      "next": "tajny_zivot_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Gravitace",
+      "file": "tajny_zivot_050.html",
+      "words": 80,
+      "chars": 445,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 46,
+      "prev": "tajny_zivot_049.html",
+      "next": "tajny_zivot_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Gravitace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci",
+      "file": "tajny_zivot_051.html",
+      "words": 77,
+      "chars": 445,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 47,
+      "prev": "tajny_zivot_050.html",
+      "next": "tajny_zivot_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milenci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když je dlouho šero,",
+      "file": "tajny_zivot_052.html",
+      "words": 77,
+      "chars": 518,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 48,
+      "prev": "tajny_zivot_051.html",
+      "next": "tajny_zivot_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když je dlouho šero,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TuaregovéPodle zážitku Z. Štolovského",
+      "file": "tajny_zivot_053.html",
+      "words": 89,
+      "chars": 530,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 49,
+      "prev": "tajny_zivot_052.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TuaregovéPodle zážitku Z. Štolovského",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 130,
+      "chars": 838,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "tajny_zivot_053.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3472,
+      "chars": 20158,
+      "ideas": 684
+    },
+    "chapters": {
+      "words": 3336,
+      "chars": 19286,
+      "ideas": 665
+    }
+  }
+}

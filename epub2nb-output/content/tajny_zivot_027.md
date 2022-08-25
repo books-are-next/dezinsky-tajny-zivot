@@ -1,11 +1,11 @@
 ---
 title: Slova mají smysl
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slova mají smysl,  
+Slova mají smysl,  
 i když říkáme, že to a to je krásné,  
 ženy jsou překrásné;  
 když se v mrazu úsvit zakousává  
@@ -24,6 +24,6 @@ A být na _skutečné_ hlídce je krásné,
 když roste měsíc a pod mostem svítí  
 lýtko bezdomovce.  
 Nemyslíme na to, co bude po smrti,  
-ledaže by po ní něco bylo._
+ledaže by po ní něco bylo.
 
 </section>

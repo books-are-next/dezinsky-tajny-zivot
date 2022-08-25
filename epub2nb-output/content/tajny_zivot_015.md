@@ -1,11 +1,11 @@
 ---
 title: "Zašlý lesk alpaky a\_stříbra"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_ukazuje na staré, dobré časy,  
+ukazuje na staré, dobré časy,  
 které zůstanou nepochopeny.  
 Hodiny tikají a je těžké jim stačit  
 v tuto unavenou hodinu. Staří básníci  
@@ -18,6 +18,6 @@ Je ještě možné spát.
 Už kráčíš po hraně spánku,  
 v němž se balvan sune na balvan,  
 je slyšet podvodní zvuky,  
-ale vidět je můžou jenom ryby._
+ale vidět je můžou jenom ryby.
 
 </section>

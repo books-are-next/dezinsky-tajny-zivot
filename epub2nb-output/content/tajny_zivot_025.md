@@ -1,11 +1,11 @@
 ---
 title: "Co říct o\_světě,"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_který tam, kde není hladký, odstává.  
+který tam, kde není hladký, odstává.  
 Zmizet v polích a nikdy se nevrátit.  
 Poslat posla, ať jen zazvoní  
 a nenechává vzkaz.  
@@ -19,6 +19,6 @@ Být spočinutím
 krahujce, který míří na hrdličku.  
 Stát obnaženě proti větru z Alp,  
 mít v lýku vrostlý vzkaz,  
-jenž zůstal nedoručen._
+jenž zůstal nedoručen.
 
 </section>

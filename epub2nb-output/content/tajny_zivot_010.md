@@ -1,11 +1,11 @@
 ---
 title: Slavnost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Toho nebožtíka jsem zahlídl jako ten,  
+Toho nebožtíka jsem zahlídl jako ten,  
 koho přivedou a rozvážou mu oči.  
 Dnes se mi vybavuje jeho lesklá tvář.  
 Smuteční hosté, vážní a vědomi si chvíle,  
@@ -18,6 +18,6 @@ Dívají se však trochu stranou, aby nebyli zasaženi výbojem
 nějaké posmrtné jasnozřivosti, který by vyšlehl hmoty.  
 Nebožtík byl pečlivě učesaný a upravený.  
 Jen jsem si říkal, jak netečně tam leží  
-s ohledem na vážnost slavnosti._
+s ohledem na vážnost slavnosti.
 
 </section>

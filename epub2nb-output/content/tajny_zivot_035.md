@@ -1,11 +1,11 @@
 ---
 title: Vrtoch
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Finta nudy, z níž nevzniká dílo,  
+Finta nudy, z níž nevzniká dílo,  
 jen poslední ohnisko odporu,  
 jako když suchý, vypleněný strom  
 ještě vychrstne konečnou závrať mízy na mravence,  
@@ -15,6 +15,6 @@ To je ten nejsměšnější vrtoch:
 ve svém hladovém okamžiku  
 mění to, co bude jednou provždy  
 k smrti nehybný plovoucí ostrov,  
-nořící se do šera._
+nořící se do šera.
 
 </section>

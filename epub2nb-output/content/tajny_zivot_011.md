@@ -1,11 +1,11 @@
 ---
 title: Atom
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je to šedesát pět let od Hirošimy,  
+Je to šedesát pět let od Hirošimy,  
 píšou. Nabere-li se do dlaní voda z řeky,  
 je v ní jistě alespoň jeden atom kyslíku,  
 který vydechla Kleopatra, četl jsem,  
@@ -17,6 +17,6 @@ Dům z podloží vyměšuje sliny.
 Když se drala na svět,  
 přecházel jsem po pokoji.  
 Dostala darem jeden  
-atom z Hirošimy?_
+atom z Hirošimy?
 
 </section>

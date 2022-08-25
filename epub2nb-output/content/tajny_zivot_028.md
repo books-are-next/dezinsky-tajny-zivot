@@ -1,11 +1,11 @@
 ---
 title: Schránky měkkýšů
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jako bychom se snažili  
+Jako bychom se snažili  
 něco tu zanechat,  
 ale nemám na mysli kila měkké tkáně.  
 Jsem jak v červí díře:  
@@ -25,6 +25,6 @@ zahnat pocit samoty,
 zbude chvilka i na soucit,  
 lásku a malé lži.  
 Vše bude jednou chrastit  
-v jiné krabici._
+v jiné krabici.
 
 </section>

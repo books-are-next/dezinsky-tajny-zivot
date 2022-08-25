@@ -1,11 +1,11 @@
 ---
 title: Když je dlouho šero,
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_otevřou krabici s pralinkami.  
+otevřou krabici s pralinkami.  
 Jsou to našedivělé pralinky.  
 Těžké záclony třepají zatuchlinu.  
 Posouvají židli celé dopoledne.  
@@ -21,6 +21,6 @@ obtéká deštníky.
 Očima vybírají dětské  
 zelené, oranžové a růžové pláštěnky  
 jak karamelky.  
-Dneska žádná pošta._
+Dneska žádná pošta.
 
 </section>

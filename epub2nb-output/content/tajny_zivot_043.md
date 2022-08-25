@@ -1,13 +1,14 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
 II
 
-_Mám na mysli metaforu,  
+Mám na mysli metaforu,  
 velkou a složitou,  
 když ráno ze své dózy s müsli  
 neohrabaně lovím vzácný  
@@ -17,6 +18,6 @@ Já obezřetný lovec
 ho přese všechno naleznu.  
 To úsilí je obdařeno slastí,  
 i když pak mám jen spoustu müsli  
-bez ořechů._
+bez ořechů.
 
 </section>

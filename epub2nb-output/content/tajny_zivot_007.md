@@ -1,11 +1,11 @@
 ---
 title: Bude mi třiatřicet
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nechávají mne o samotě,  
+Nechávají mne o samotě,  
 a zatímco konvice klokotá jak kvočna,  
 napadá mě, že v mém věku  
 Ginsberg i Corso dávno napsali  
@@ -26,6 +26,6 @@ vyjevujícího se potem,
 který je projevem chtivosti,  
 ale také otevřenosti,  
 když se šeptem oslovuji  
-tady u té lampy, tady v té tmě —_
+tady u té lampy, tady v té tmě —
 
 </section>

@@ -1,44 +1,44 @@
 ---
 title: Skládanka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zastavuji u zdi vlhkého lesa:_
+Zastavuji u zdi vlhkého lesa:
 
 </section>
 
 <section>
 
-_V bahně se topí kláda jak srna do půl hrudi.  
+V bahně se topí kláda jak srna do půl hrudi.  
 Ticho hučí po cvrčcích.  
 Zaniklá hvězda schránky plže,  
 jejíž světlo mne pohltí  
-a vyplivne o kus dál._
+a vyplivne o kus dál.
 
 </section>
 
 <section>
 
-_U pěšiny skládanka.  
+U pěšiny skládanka.  
 Dvě rozházené ptačí kostry  
-pomíchané v posledním hrdliččím polibku._
+pomíchané v posledním hrdliččím polibku.
 
 </section>
 
 <section>
 
-_Budou tam ležet, říkám si,  
+Budou tam ležet, říkám si,  
 v tom krásném lese,  
 v dešti, v horku,  
-mrazu,_
+mrazu,
 
 </section>
 
 <section>
 
-_dokud je nové zrození  
-nerozdělí._
+dokud je nové zrození  
+nerozdělí.
 
 </section>

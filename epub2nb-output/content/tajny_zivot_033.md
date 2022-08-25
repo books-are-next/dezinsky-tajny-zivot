@@ -1,11 +1,11 @@
 ---
 title: Lesní párty
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kameny dáví do nočního chladu  
+Kameny dáví do nočního chladu  
 a vrásčité lišky svítí borůvčím.  
 Vůně plodnic tu poletuje  
 mužskou silou. Dřevo slastí vlhne,  
@@ -21,6 +21,6 @@ jak průsvitné pyje.
 V noře pohyb.  
 U kořene stydne zmije.  
 Plch ladí a vytahuje nářadí.  
-Středohoří žije!_
+Středohoří žije!
 
 </section>
