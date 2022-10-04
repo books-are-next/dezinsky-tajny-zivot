@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dezinsky-tajny-zivot-3d0ffe6",
-  "revision": "3d0ffe6",
+  "identifier": "dezinsky-tajny-zivot-a6d0c45",
+  "revision": "a6d0c45",
   "readingOrder": [
     "promo.html",
     "tajny_zivot_005.html",
@@ -64,8 +64,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:48:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639301978
+    "date": "Tue Oct 04 2022 16:36:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901382360
   },
   "documents": [
     {
@@ -1063,9 +1063,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 130,
+      "words": 128,
       "chars": 838,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "tajny_zivot_053.html",
@@ -1083,9 +1083,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3472,
+      "words": 3470,
       "chars": 20158,
-      "ideas": 684
+      "ideas": 682
     },
     "chapters": {
       "words": 3336,
